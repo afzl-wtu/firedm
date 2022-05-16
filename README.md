@@ -35,4 +35,6 @@ For Further information:
 You can follow [this](https://pypi.org/project/FireDM/2022.2.5/).
 
 # For Windows:
-You can also install it on Windows from following Linux tutorial. But I am providing you fully working portable version of FireDM 2022.2.5 because again FireDM 2022.4.14 does not work here too. So simply download it by cloning my repository and then extracting it in your desired location.
+You can also install it on Windows from following Linux tutorial. But I am providing you fully working portable version of FireDM 2022.2.5 because again FireDM 2022.4.14 does not work here too. So simply download it [here](https://github.com/afzl-wtu/firedm/releases/download/firedm/FireDM.full.for.Windows.64.bit.7z) and then extracting it in your desired location. and Do not forget to use a good file extracter like [7zip](https://www.7-zip.org/).
+
+For any issue feel free to create issue or PR.
