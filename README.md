@@ -13,11 +13,11 @@ After finshed you can start firedm by typing firedm in Terminal or Console.
 
 We will use firedm version 2022.2.5 because FireDM 2022.4.14 does not work anymore.
 On some Linux Distro you have to type python instead of python3 in above command.
-and Do not forget to install ffmpeg in linux and MacOS.
+and Do not forget to install ffmpeg and tk in linux and MacOS otherwise it will not even start.
 
 # Troubleshooting
 
-On Python 3.10 Tkinter GUI library creates issue with firedm and you can not see your Download section in Firedm.
+On some linux distro, Python 3.10 Tkinter GUI library creates issue with firedm and you can not see your Download section in Firedm.
 But get error in terminal like:
 
 ```
