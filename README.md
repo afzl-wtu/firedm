@@ -4,6 +4,7 @@
 FireDM is a best download manager for downloading video and audios from any website (yt-dlp supported [websites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)) including Youtube.
 As firedm is no more alive. So Download Linux or Windoes file from [Releases](https://github.com/afzl-wtu/firedm/releases)
 or even better clone this repo on your Linux or Mac PC and install:
+
 Ubuntu:
 ```
 sudo apt install ffmpeg libcurl4-openssl-dev libssl-dev python3-pip python3-pil python3-pil.imagetk python3-tk python3-dbus gir1.2-appindicator3-0.1
@@ -14,9 +15,9 @@ Fedora:
 sudo dnf install python3-tkinter python-devel libcurl-devel ffmpeg
 ```
 Aarch or Manjaro:
-`
+```
 sudo pacman -S tk ffmpeg
-`
+```
 (Note I have tested it only on Fedora Linux. So other linux commands may not fully work. So read errors and then search on internet how to install that missing dependency on your specific linux)
 Make firedm.sh file executable by 
 `
