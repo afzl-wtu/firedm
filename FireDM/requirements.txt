@@ -1,0 +1,10 @@
+plyer
+certifi
+yt_dlp
+youtube_dl
+pycurl
+Pillow
+pystray
+awesometkinter
+packaging
+distro; platform_system == "Linux"
